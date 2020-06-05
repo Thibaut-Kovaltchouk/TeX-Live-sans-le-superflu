@@ -1,15 +1,19 @@
-# texlive.profile written on Fri Jun  5 14:57:32 2020 UTC
+# texlive.profile written on Fri Jun  5 22:37:24 2020 UTC
 # It will NOT be updated and reflects only the
 # installation profile at installation time.
-selected_scheme scheme-basic
-TEXDIR ~/.texlive/2020
+selected_scheme scheme-custom
+TEXDIR /home/kovaltct/texlive/2020
 TEXMFCONFIG ~/.texlive2020/texmf-config
 TEXMFHOME ~/texmf
-TEXMFLOCAL ~/.texlive/texmf-local
-TEXMFSYSCONFIG ~/.texlive/2020/texmf-config
-TEXMFSYSVAR ~/.texlive/2020/texmf-var
+TEXMFLOCAL /home/kovaltct/texlive/texmf-local
+TEXMFSYSCONFIG /home/kovaltct/texlive/2020/texmf-config
+TEXMFSYSVAR /home/kovaltct/texlive/2020/texmf-var
 TEXMFVAR ~/.texlive2020/texmf-var
 binary_x86_64-linux 1
+collection-basic 1
+collection-langfrench 1
+collection-latex 1
+collection-metapost 1
 instopt_adjustpath 0
 instopt_adjustrepo 1
 instopt_letter 0

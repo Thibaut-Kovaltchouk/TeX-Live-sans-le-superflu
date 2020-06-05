@@ -1,0 +1,14 @@
+#!/usr/bin/env sh
+
+# Add /home/kovaltct/texlive/2020/texmf-dist/doc/man to MANPATH.
+# Add /home/kovaltct/texlive/2020/texmf-dist/doc/info to INFOPATH.
+# Most importantly, add /home/kovaltct/texlive/2020/bin/x86_64-linux
+# to your PATH for current and future sessions.
+
+echo '' >> ~/.bashrc
+echo '# >>> TeX Live >>>' >> ~/.bashrc 
+echo 'export MANPATH=${MANPATH}:~/texlive/2020/texmf-dist/doc/man' >> ~/.bashrc
+echo 'export INFOPATH=${INFOPATH}:~/texlive/2020/texmf-dist/doc/info' >> ~/.bashrc
+echo 'export PATH=${PATH}:~/texlive/2020/bin/x86_64-linux' >> ~/.bashrc
+echo '# <<< TeX Live <<<' >> ~/.bashrc
+echo '' >> ~/.bashrc
