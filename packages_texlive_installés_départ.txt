@@ -1,0 +1,212 @@
+i ae: Virtual fonts for T1 encoded CMR-fonts
+i aeguill: Add several kinds of guillemets to the ae fonts
+i amscls: AMS document classes for LaTeX
+i amsfonts: TeX fonts from the American Mathematical Society
+i amsmath: AMS mathematical facilities for LaTeX
+i annee-scolaire: Automatically typeset the academic year (French way)
+i apprendre-a-programmer-en-tex: The book "Apprendre a programmer en TeX"
+i apprends-latex: Apprends LaTeX!
+i atbegshi: Execute stuff at \shipout time
+i atveryend: Hooks at the very end of a document
+i automata: Finite state machines, graphs and trees in MetaPost
+i auxhook: Hooks for auxiliary files
+i babel: Multilingual support for Plain TeX or LaTeX
+i babel-basque: Babel contributed support for Basque
+i babel-english: Babel support for English
+i babel-french: Babel contributed support for French
+i babelbib: Multilingual bibliographies
+i basque-book: Class for book-type documents written in Basque
+i basque-date: Print the date in Basque
+i bbcard: Bullshit bingo, calendar and baseball-score cards
+i bib-fr: French translation of classical BibTeX styles
+i bibleref-french: French translations for bibleref
+i bibtex: Process bibliographies for LaTeX, etc
+i bibtex.x86_64-linux: x86_64-linux files of bibtex
+i bigintcalc: Integer calculations on very large numbers
+i bitset: Handle bit-vector datatype
+i blockdraw_mp: Block diagrams and bond graphs, with MetaPost
+i bookmark: A new bookmark (outline) organization for hyperref
+i booktabs-fr: French translation of booktabs documentation
+i bpolynomial: Drawing polynomial functions of up to order 3
+i carlisle: David Carlisle's small packages
+i cm: Computer Modern fonts
+i cmarrows: MetaPost arrows and braces in the Computer Modern style
+i collection-basic: Essential programs and files
+i collection-langfrench: French
+i collection-latex: LaTeX fundamental packages
+i collection-metapost: MetaPost and Metafont packages
+i colorprofiles: Collection of free ICC profiles
+i colortbl: Add colour to LaTeX tables
+i dehyph: German hyphenation patterns for traditional orthography
+i droit-fr: Document class and bibliographic style for French law
+i drv: Derivation trees with MetaPost
+i dviincl: Include a DVI page into MetaPost output
+i dvipdfmx: An extended version of dvipdfm
+i dvipdfmx.x86_64-linux: x86_64-linux files of dvipdfmx
+i dvips: A DVI to PostScript driver
+i dvips.x86_64-linux: x86_64-linux files of dvips
+i e-french: Comprehensive LaTeX support for French-language typesetting
+i ec: Computer modern fonts in T1 and TS1 encodings
+i emp: "Encapsulate" MetaPost figures in a document
+i enctex: A TeX extension that translates input on its way into TeX
+i epsincl: Include EPS in MetaPost figures
+i epslatex-fr: French version of "graphics in LaTeX"
+i epstopdf-pkg: Call epstopdf "on the fly"
+i etex: An extended version of TeX, from the NTS project
+i etex-pkg: E-TeX support package
+i etexcmds: Avoid name clashes with e-TeX commands
+i expose-expl3-dunkerque-2019: Using expl3 to implement some numerical algorithms
+i expressg: Diagrams consisting of boxes, lines, and annotations
+i exteps: Include EPS figures in MetaPost
+i facture: Generate an invoice
+i fancyhdr: Extensive control of page headers and footers in LaTeX2e
+i featpost: MetaPost macros for 3D
+i feynmf: Macros and fonts for creating Feynman (and other) diagrams
+i feynmp-auto: Automatic processing of feynmp graphics
+i fix2col: Fix miscellaneous two column mode features
+i fiziko: A MetaPost library for physics textbook illustrations
+i formation-latex-ul: Introductory LaTeX course in French
+i frenchmath: Typesetting mathematics according to French rules
+i frletter: Typeset letters in the French style
+i garrigues: MetaPost macros for the reproduction of Garrigues' Easter nomogram
+i geometry: Flexible and complete interface to document dimensions
+i gettitlestring: Clean up title references
+i glyphlist: Adobe Glyph List and TeX extensions
+i gmp: Enable integration between MetaPost pictures and LaTeX
+i graphics: The LaTeX standard graphics bundle
+i graphics-cfg: Sample configuration files for LaTeX color and graphics
+i graphics-def: Colour and graphics option files
+i grfext: Manipulate the graphics package's list of extensions
+i grffile: Extended file name support for graphics (legacy package)
+i hatching: MetaPost macros for hatching interior of closed paths
+i hycolor: Implements colour for packages hyperref and bookmark
+i hyperref: Extensive support for hypertext in LaTeX
+i hyph-utf8: Hyphenation patterns expressed in UTF-8
+i hyphen-base: core hyphenation support files
+i hyphen-basque: Basque hyphenation patterns.
+i hyphen-french: French hyphenation patterns.
+i hyphenex: US English hyphenation exceptions file
+i ifplatform: Conditionals to test which platform is being used
+i iftex: Am I running under pdfTeX, XeTeX or LuaTeX?
+i impatient-fr: Free edition of the book "TeX for the Impatient"
+i impnattypo: Support typography of l'Imprimerie Nationale Francaise
+i infwarerr: Complete set of information/warning/error message macros
+i intcalc: Expandable arithmetic operations with integers
+i knuth-lib: A small library of Metafont sources
+i knuth-local: Knuth's local information
+i kpathsea: Path searching library for TeX-related files
+i kpathsea.x86_64-linux: x86_64-linux files of kpathsea
+i kvdefinekeys: Define keys for use in the kvsetkeys package
+i kvoptions: Key value format for package options
+i kvsetkeys: Key value parser with default handler support
+i l2tabu-french: French translation of l2tabu
+i l3backend: LaTeX3 backend drivers
+i l3kernel: LaTeX3 programming conventions
+i l3packages: High-level LaTeX3 concepts
+i latex: A TeX macro package that defines LaTeX
+i latex-bin: LaTeX executables and man pages
+i latex-bin.x86_64-linux: x86_64-linux files of latex-bin
+i latex-fonts: A collection of fonts used in LaTeX distributions
+i latex2e-help-texinfo-fr: A French translation of "latex2e-help-texinfo"
+i latexconfig: configuration files for LaTeX-related formats
+i latexmp: Interface for LaTeX-based typesetting in MetaPost
+i letltxmacro: Let assignment for LaTeX macros
+i lm: Latin modern fonts in outline formats
+i lshort-french: Short introduction to LaTeX, French translation
+i ltxcmds: Some LaTeX kernel commands for general use
+i ltxmisc: Miscellaneous LaTeX packages, etc
+i lua-alt-getopt: Process application arguments the same way as getopt_long
+i luahbtex: LuaTeX with HarfBuzz library for glyph shaping
+i luahbtex.x86_64-linux: x86_64-linux files of luahbtex
+i lualibs: Additional Lua functions for LuaTeX macro programmers
+i luaotfload: OpenType 'loader' for Plain TeX and LaTeX
+i luaotfload.x86_64-linux: x86_64-linux files of luaotfload
+i luatex: The LuaTeX engine
+i luatex.x86_64-linux: x86_64-linux files of luatex
+i mafr: Mathematics in accord with French usage
+i makeindex: Makeindex development sources
+i makeindex.x86_64-linux: x86_64-linux files of makeindex
+i mcf2graph: Draw chemical structure diagrams with Metafont/MetaPost
+i metafont: A system for specifying fonts
+i metafont.x86_64-linux: x86_64-linux files of metafont
+i metago: MetaPost output of Go positions
+i metaobj: MetaPost package providing high-level objects
+i metaplot: Plot-manipulation macros for use in MetaPost
+i metapost: A development of Metafont for creating graphics
+i metapost-colorbrewer: An implementation of the colorbrewer2.org colours for MetaPost
+i metapost.x86_64-linux: x86_64-linux files of metapost
+i metauml: MetaPost library for typesetting UML diagrams
+i mflogo: LaTeX support for Metafont logo fonts
+i mfnfss: Packages to typeset oldgerman and pandora fonts in LaTeX
+i mfpic: Draw Metafont/post pictures from (La)TeX commands
+i mfpic4ode: Macros to draw direction fields and solutions of ODEs
+i mfware: Supporting tools for use with Metafont
+i mfware.x86_64-linux: x86_64-linux files of mfware
+i modes: A collection of Metafont mode_def's
+i mp3d: 3D animations
+i mparrows: MetaPost module with different types of arrow heads
+i mpattern: Patterns in MetaPost
+i mpcolornames: Extend list of predefined colour names for MetaPost
+i mpgraphics: Process and display MetaPost figures inline
+i mptopdf: mpost to PDF, native MetaPost graphics inclusion
+i mptopdf.x86_64-linux: x86_64-linux files of mptopdf
+i mptrees: Probability trees with MetaPost
+i natbib: Flexible bibliography support
+i oberdiek: A bundle of packages submitted by Heiko Oberdiek
+i pdfescape: Implements pdfTeX's escape features using TeX or e-TeX
+i pdftex: A TeX extension for direct creation of PDF
+i pdftex.x86_64-linux: x86_64-linux files of pdftex
+i pdftexcmds: LuaTeX support for pdfTeX utility functions
+i piechartmp: Draw pie-charts using MetaPost
+i plain: The Plain TeX format
+i pslatex: Use PostScript fonts by default
+i psnfss: Font support for common PostScript fonts
+i pspicture: PostScript picture support
+i refcount: Counter operations with label references
+i repere: Diagrams for school mathematics
+i rerunfilecheck: Checksum based rerun checks on auxiliary files
+i roex: Metafont-PostScript conversions
+i roundrect: MetaPost macros for highly configurable rounded rectangles (optionally with text)
+i scheme-basic: basic scheme (plain and latex)
+i scheme-infraonly: infrastructure-only scheme (no TeX at all)
+i scheme-minimal: minimal scheme (plain only)
+i shapes: Draw polygons, reentrant stars, and fractions in circles with MetaPost
+i slideshow: Generate slideshow with MetaPost
+i splines: MetaPost macros for drawing cubic spline interpolants
+i stringenc: Converting a string between different encodings
+i suanpan: MetaPost macros for drawing Chinese and Japanese abaci
+i symbol: URW "Base 35" font pack for LaTeX
+i tabvar: Typesetting tables showing variations of functions
+i tdsfrmath: Macros for French teachers of mathematics
+i tex: A sophisticated typesetting engine
+i tex-ini-files: Model TeX format creation files
+i tex.x86_64-linux: x86_64-linux files of tex
+i texlive-common: TeX Live documentation (common elements)
+i texlive-docindex: top-level TeX Live doc.html, etc.
+i texlive-en: TeX Live manual (English)
+i texlive-fr: TeX Live manual (French)
+i texlive-msg-translations: translations of the TeX Live installer and TeX Live Manager
+i texlive-scripts: TeX Live infrastructure programs
+i texlive-scripts.x86_64-linux: x86_64-linux files of texlive-scripts
+i texlive.infra: basic TeX Live infrastructure
+i texlive.infra.x86_64-linux: x86_64-linux files of texlive.infra
+i texliveonfly: On-the-fly download of missing TeX live packages
+i texliveonfly.x86_64-linux: x86_64-linux files of texliveonfly
+i textpath: Setting text along a path with MetaPost
+i threeddice: Create images of dice with one, two, or three faces showing, using MetaPost
+i tlshell: GUI frontend (tcl/tk-based) for tlmgr
+i tlshell.x86_64-linux: x86_64-linux files of tlshell
+i tools: The LaTeX standard tools bundle
+i translation-array-fr: French translation of the documentation of array
+i translation-dcolumn-fr: French translation of the documentation of dcolumn
+i translation-natbib-fr: French translation of the documentation of natbib
+i translation-tabbing-fr: French translation of the documentation of Tabbing
+i unicode-data: Unicode data and loaders for TeX
+i uniquecounter: Provides unlimited unique counter
+i updmap-map: auto-generated font map files
+i url: Verbatim with URL-sensitive line breaks
+i variations: Typeset tables of variations of functions
+i visualtikz: Visual help for TikZ based on images with minimum text
+i xdvi: A DVI previewer for the X Window System
+i xdvi.x86_64-linux: x86_64-linux files of xdvi
+i zapfding: URW "Base 35" font pack for LaTeX
