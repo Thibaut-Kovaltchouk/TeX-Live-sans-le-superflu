@@ -5,10 +5,12 @@
 # Most importantly, add /home/kovaltct/texlive/2020/bin/x86_64-linux
 # to your PATH for current and future sessions.
 
-echo '' >> ~/.bashrc
-echo '# >>> TeX Live >>>' >> ~/.bashrc 
-echo 'export MANPATH=${MANPATH}:~/texlive/2020/texmf-dist/doc/man' >> ~/.bashrc
-echo 'export INFOPATH=${INFOPATH}:~/texlive/2020/texmf-dist/doc/info' >> ~/.bashrc
-echo 'export PATH=${PATH}:~/texlive/2020/bin/x86_64-linux' >> ~/.bashrc
-echo '# <<< TeX Live <<<' >> ~/.bashrc
-echo '' >> ~/.bashrc
+echo '' >> ~/.profile
+echo '# >>> TeX Live >>>' >> ~/.profile 
+echo 'export MANPATH=${MANPATH}:~/texlive/2020/texmf-dist/doc/man' >> ~/.profile
+echo 'export INFOPATH=${INFOPATH}:~/texlive/2020/texmf-dist/doc/info' >> ~/.profile
+echo 'export PATH=${PATH}:~/texlive/2020/bin/x86_64-linux' >> ~/.profile
+echo '# <<< TeX Live <<<' >> ~/.profile
+echo '# <<< installé grâce à T. Kovaltchouk <<<' >> ~/.profile
+echo '' >> ~/.profile
+
