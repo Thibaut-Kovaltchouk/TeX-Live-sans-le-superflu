@@ -1,2 +1,16 @@
 
 install-tl-*
+
+*.aux
+
+*.log
+
+7_addPersonnalStyAndOther
+
+*.out
+
+*.revision
+
+*.gz
+
+*.version
