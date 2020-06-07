@@ -1,0 +1,7 @@
+Place your personnal .sty and other lbraries in 
+~/texlive/texmf-local/tex/latex/local
+
+Then use this command in a shell :
+texhash 
+
+TeX Live will now know your libraries.
